@@ -1,0 +1,27 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #3AAFA9;
+	color: white;
+}
+.headerStyle{
+	text-align: center;
+}
+.siteDescriptionStyle{
+	color: #17252A;
+	text-align: center;
+	font-size: 18px;
+}
+.responsive-img{
+	width: 225px !important;
+	border-radius: 50%;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23) !important;
+}
+.appDemoStyle{
+	width: 80%;
+	text-align: center !important;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23) !important;
+}
+.imgDescStyle{
+	font-size: 19px;
+	color: white;
+}
